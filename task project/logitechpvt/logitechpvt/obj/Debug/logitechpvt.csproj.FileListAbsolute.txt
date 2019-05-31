@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\task project\logitechpvt\logitechpvt\bin\Debug\logitechpvt.exe.config
+C:\Users\User\Desktop\task project\logitechpvt\logitechpvt\bin\Debug\logitechpvt.exe
+C:\Users\User\Desktop\task project\logitechpvt\logitechpvt\bin\Debug\logitechpvt.pdb
+C:\Users\User\Desktop\task project\logitechpvt\logitechpvt\obj\Debug\logitechpvt.csprojAssemblyReference.cache
+C:\Users\User\Desktop\task project\logitechpvt\logitechpvt\obj\Debug\logitechpvt.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\task project\logitechpvt\logitechpvt\obj\Debug\logitechpvt.exe
+C:\Users\User\Desktop\task project\logitechpvt\logitechpvt\obj\Debug\logitechpvt.pdb
